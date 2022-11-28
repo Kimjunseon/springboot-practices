@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @SpringBootApplication
 public class MyWebApplication {
-	
 	@Controller
 	public class  HelloController{
 		@RequestMapping("/hello")
