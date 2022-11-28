@@ -104,6 +104,9 @@ springboot-practices [폴더]
   		
  com.bitacademy.mysite
  	| - MysiteApplication.java
+ 	
+com.bitacademy.mysite.config
+	| - Webconfig.java
   		
   		
   		
